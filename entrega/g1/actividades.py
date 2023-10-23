@@ -13,3 +13,7 @@ print(id(edad))
 
 edad = edad + 1
 print(id(edad))
+
+age = input("Cual es tu edad?: ")
+print("Su edad es de",age)
+
