@@ -8,3 +8,8 @@ salario_mensual = "2200"
 game_over = ""
 num_par = 2
 
+edad = 22 + 1
+print(id(edad))
+
+edad = edad + 1
+print(id(edad))
