@@ -68,4 +68,23 @@ age2 = input("Cuál es su edad: ")
 print(f"{name} {last_name} {age2} ser creativo")
 
 
-#6
+# 6
+num1 = int(input("Ingrese un número entero: "))
+num2 = int(input("Ingrese otro número entero: "))
+print("Suma: ", num1 + num2)
+print("Resta: ", num1 - num2)
+print("Producto: ", num1*num2)
+print("Potencia: ", num1**num2)
+print("Resto: ", num1 % num2)
+
+
+# 7
+num1 = int(input("Ingrese un número entero: "))
+num2 = float(input("Ingrese otro número con decimales: "))
+print("Suma: ", num1 + num2)
+print("Resta: ", num1 - num2)
+print("Producto: ", num1*num2)
+print("Potencia: ", num1**num2)
+print("Resto: ", num1 % num2)
+
+# 8 
