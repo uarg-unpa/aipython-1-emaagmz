@@ -1,5 +1,5 @@
 # ACTIVIDADES GUÍA I.
-
+# PARTE 1
 
 # 1
 print("Las máquinas me sorprenden con mucha frecuencia.")
@@ -86,5 +86,3 @@ print("Resta: ", num1 - num2)
 print("Producto: ", num1*num2)
 print("Potencia: ", num1**num2)
 print("Resto: ", num1 % num2)
-
-# 8 
