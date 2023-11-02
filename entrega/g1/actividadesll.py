@@ -87,3 +87,37 @@ print(texto_formateado)
 # 17
 nombre_completo = input("Ingresa tu nombre completo: ")
 print(nombre_completo * 3)
+
+# Estos puntos no los entendí
+# 18
+# 19
+# 20
+
+# 21
+palabra = input("Ingresa una palabra: ")
+palabra = palabra.replace("a", "😃")
+print(palabra)
+
+
+# 22
+frase = "El razonamiento matemático puede considerarse más bien esquemáticamente como el ejercicio de una combinación de dos instalaciones, que podemos llamar la intuición y el ingenio."
+# cortar las dos primeras palabras
+palabras = frase.split()
+nueva_frase = ' '.join(palabras[2:])
+print(nueva_frase)
+
+
+# 23
+frase2 = " La ciencia es una ecuación diferencial. La religión es una condición de frontera. "
+frase_sin_espacios = frase2.strip()
+print(frase_sin_espacios)
+
+
+# 24
+frase3 = "Usar el carácter de escape\ny nueva línea para separar la frase en dos líneas."
+print(frase3)
+
+
+# 25
+tabla = "Nombre\tEdad\tPais\tCiudad\nAlexa\t250\tUSA\tCapeCod"
+print(tabla)
