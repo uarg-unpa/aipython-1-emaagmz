@@ -2,6 +2,7 @@
 # PARTE 1
 
 # 1
+"""
 print("Las máquinas me sorprenden con mucha frecuencia.")
 print("")
 print("Mensaje propio")
@@ -10,6 +11,7 @@ print(" \"Una computadora puede ser llamada \"inteligente\" si logra engañar a 
 print("Emanuel", "Gomez", 22)
 print("Calle\t", "1919\t", "Código Postal 9400\t")
 print("Calle\n", "1919\n", "Código Postal 9400\n")
+"""
 
 texto = "Feliz \nPrimavera 2\t 0\t 2\t 3\t"
 print(texto)
