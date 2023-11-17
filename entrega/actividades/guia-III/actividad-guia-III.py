@@ -4,7 +4,7 @@
 i = 0
 while i <= 100:
     print(i)
-    i += 1
+    i = i + 1
 
 # 2
 for i in range(101):
@@ -14,7 +14,7 @@ for i in range(101):
 i = 10
 while i >= 0:
     print(i)
-    i -= 1
+    i = i - 1
 
 # 4
 numero1 = int(input("Ingrese el primer número entero: "))
@@ -41,8 +41,8 @@ for _ in range(numero_repeticiones):
     print(nombre_usuario)
 
 # 8
-numero_limite = int(input("Ingrese un número entero mayor a 3: "))
-for i in range(1, numero_limite + 1, 2):
+num_limite = int(input("Ingrese un número entero mayor a 3: "))
+for i in range(1, num_limite + 1, 2):
     print(i)
 
 # 9

@@ -26,10 +26,10 @@ print("Elemento del medio:", lista_numeros[len(lista_numeros)//2])
 print("Último elemento:", lista_numeros[-1])
 
 # 6
-datos_personales = ["Nombre", 25, 1.75, "Soltero", "Mi dirección"]
+datos_personales = ["Nombre", 22, 1.79, "Soltero", "Mi dirección"]
 
 # 7
-companias_favoritas = ["Compañía1", "Compañía2", "Compañía3"]
+companias_favoritas = ["MercadoLibre", "Apple", "Microsoft"]
 
 # 8
 for dato in datos_personales:
