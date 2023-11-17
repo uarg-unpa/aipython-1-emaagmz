@@ -9,7 +9,7 @@ long_lista_mas_7 = len(lista_mas_7)
 print("Longitud de la lista_mas_7:", long_lista_mas_7)
 
 # 4
-frutas_favoritas = ["manzana", "banana", "uva", "kiwi", "pera"]
+frutas_favoritas = ["manzana", "banana", "uva", "mandarina", "sandía"]
 # a
 print("Longitud de frutas_favoritas:", len(frutas_favoritas))
 # b
@@ -40,7 +40,7 @@ for i, compania in enumerate(companias_favoritas):
     print(f"Índice {i}: {compania}")
 
 # 10
-companias_favoritas[0] = "Nueva Compañía"
+companias_favoritas[0] = "Amazon"
 print("Lista de compañías después de la modificación:", companias_favoritas)
 
 # 11
@@ -59,7 +59,7 @@ lista_criterio = [10, 20, 30, 40, 50]
 print("Lista en forma inversa:", lista_criterio[::-1])
 
 # 14
-palabras_favoritas = ["Python", "Programación", "Código", "Creatividad", "Desarrollo"]
+palabras_favoritas = ["Código", "Python", "Programación", "Desarrollo", "Creatividad"]
 # a
 sublista_palabras = palabras_favoritas[1:4]
 print("Sublista de palabras:", sublista_palabras)
